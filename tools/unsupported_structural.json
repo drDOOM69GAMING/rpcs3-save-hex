@@ -1,0 +1,344 @@
+[
+ {
+  "serial": "BCAS20301",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLAS50485",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLAS50485",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01465",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01465",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01683",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01683",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01723",
+  "file": "BLES01723-L*\\GAME.BIN",
+  "name": "Max Mugen Points (Alt)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01738",
+  "file": "SYSTEM.DAT",
+  "name": "Arcade cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLES01738",
+  "file": "SYSTEM.DAT",
+  "name": "Challenge mode cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLES01738",
+  "file": "SYSTEM.DAT",
+  "name": "Gallery Mode",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLES01738",
+  "file": "SYSTEM.DAT",
+  "name": "Gallery fully open",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLES01738",
+  "file": "SYSTEM.DAT",
+  "name": "Story mode cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLES01738",
+  "file": "SYSTEM.DAT",
+  "name": "Unlock Characters/Story",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLES01939",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLES01962",
+  "file": "SAVE",
+  "name": "All Title/Grade 10000",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJM60405",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJM60405",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJM60442",
+  "file": "SYSTEM.DAT",
+  "name": "Arcade cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLJM60442",
+  "file": "SYSTEM.DAT",
+  "name": "Challenge mode cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLJM60442",
+  "file": "SYSTEM.DAT",
+  "name": "Gallery Mode",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLJM60442",
+  "file": "SYSTEM.DAT",
+  "name": "Gallery fully open",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLJM60442",
+  "file": "SYSTEM.DAT",
+  "name": "Story mode cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLJM60442",
+  "file": "SYSTEM.DAT",
+  "name": "Unlock Characters/Story",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLJM61144",
+  "file": "DATA.BIN",
+  "name": "All 1st weapon become rare and skills lv 5",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJM61144",
+  "file": "DATA.BIN",
+  "name": "All 1st weapon skills mod",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJS10188",
+  "file": "SAVE",
+  "name": "All Title/Grade 10000",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJS10188",
+  "file": "SAVE",
+  "name": "Material X99",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLJS10206",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLUS30855",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLUS30855",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLUS30985",
+  "file": "SYSTEM.DAT",
+  "name": "Arcade cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLUS30985",
+  "file": "SYSTEM.DAT",
+  "name": "Challenge mode cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLUS30985",
+  "file": "SYSTEM.DAT",
+  "name": "Gallery Mode",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLUS30985",
+  "file": "SYSTEM.DAT",
+  "name": "Gallery fully open",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLUS30985",
+  "file": "SYSTEM.DAT",
+  "name": "Story mode cleared",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLUS30985",
+  "file": "SYSTEM.DAT",
+  "name": "Unlock Characters/Story",
+  "kind": "bitwise"
+ },
+ {
+  "serial": "BLUS31007",
+  "file": "BLUS31007-L*\\GAME.BIN",
+  "name": "Max Mugen Points (Alt)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLUS31313",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "BLUS31397",
+  "file": "SAVE",
+  "name": "All Title/Grade 10000",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB00486",
+  "file": "NPEB00486-*\\DATA.DAT",
+  "name": "Unlock All Characters",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB01150",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB01150",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB01151",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB01151",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB01818",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPEB01858",
+  "file": "SAVE",
+  "name": "All Title/Grade 10000",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPJB00300",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPJB00534",
+  "file": "DATA.BIN",
+  "name": "All 1st weapon become rare and skills lv 5",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPJB00534",
+  "file": "DATA.BIN",
+  "name": "All 1st weapon skills mod",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB30434",
+  "file": "NPUB30434-*\\DATA.DAT",
+  "name": "Unlock All Characters",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB30984",
+  "file": "DATA0.DAT",
+  "name": "All Itens",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB30984",
+  "file": "DATA0.DAT",
+  "name": "Dog Tags Complete",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB31321",
+  "file": "SAVEDATA.DAT",
+  "name": "Change all Items to Legendary(working)",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB31443",
+  "file": "SAVE",
+  "name": "All Title/Grade 10000",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB31564",
+  "file": "DATA.BIN",
+  "name": "All 1st weapon become rare and skills lv 5",
+  "kind": "truncated"
+ },
+ {
+  "serial": "NPUB31564",
+  "file": "DATA.BIN",
+  "name": "All 1st weapon skills mod",
+  "kind": "truncated"
+ }
+]

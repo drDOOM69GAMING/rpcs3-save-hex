@@ -1,0 +1,9 @@
+# Build output
+/target/
+
+# Python bytecode from the tools scripts
+__pycache__/
+*.pyc
+
+# Local scratch
+*.bak
