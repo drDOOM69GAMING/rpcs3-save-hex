@@ -1,7 +1,7 @@
 
 <img width="2034" height="1400" alt="Screenshot_20261017_073901" src="https://github.com/user-attachments/assets/e9ba4fc6-40e8-423f-9663-a7eaf789637d" />
 
-<img width="2032" height="1400" alt="Screenshot_20261017_073839" src="https://github.com/user-attachments/assets/f61e9e5b-dff2-49ec-8882-8e9e36542755" />
+<img width="2036" height="1406" alt="Screenshot_20261017_134034" src="https://github.com/user-attachments/assets/6c2d738e-dfa5-493f-a7e1-790b7f16b180" />
 
 # RPCS3 Save Editor
 
